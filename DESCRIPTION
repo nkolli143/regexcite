@@ -1,0 +1,11 @@
+Package: regexcite
+Title: Tools for Working with Regular Expressions and Splitting Strings
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nitya", "Kolli", , "nityakolli2006@gmail.com", role = c("aut", "cre"))
+Description: Helper functions for expressions and string manipulation,
+    including splitting strings.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
